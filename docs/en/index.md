@@ -4,8 +4,8 @@ Swoole User Document
 swoole_server
 ----
 * Function List
-    * swoole_server::__construct
-    * swoole_server::set
+    * [swoole_server::__construct](server/construct.md)
+    * [swoole_server::set](server/set.md)
     * swoole_server::on
     * swoole_server::handler
     * swoole_server::start
