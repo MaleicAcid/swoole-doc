@@ -18,7 +18,7 @@ Related Projects
 * [php-webserver](https://github.com/matyhtf/php-webserver) A high performance PHP web server based on swoole and http_parser, twice faster than php-fpm in our pressure test.
 * [zchat](https://github.com/shenzhe/zchat) A realtime web chat system based on zphp framework and swoole.
 * [WebSocket & WebIM](https://github.com/matyhtf/swoole_framework)
-* [SOA服务器](https://github.com/matyhtf/swoole_framework)
+* [SOA Server](https://github.com/matyhtf/swoole_framework)
 * [swoole-ide-auto-complete](https://github.com/EagleWu/swoole-auto-complete) You can use this code fragment to make your IDE/Editor recognize the classes, functions and macroes of Swoole which also can be used on auto completing function names.
 * [PHPWebIM](https://github.com/matyhtf/phpwebim) A websocket web chat system based on Swoole.
 * [PHP-ftp-server](https://github.com/matyhtf/phpwebim) A high performance FTP server based on Swoole. It features active/passive mode and virtual directory. It has good performance and can be used in production environment.
