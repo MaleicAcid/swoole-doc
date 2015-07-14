@@ -29,6 +29,7 @@ Set valid number and make sure port is available for use
 * int $mode
 
 Available mode
+
     * SWOOLE_BASE
     * SWOOLE_THREAD
     * SWOOLE_PROCESS
@@ -37,6 +38,7 @@ Available mode
 * int $sock_type
 
 Available socket type
+
     * SWOOLE_SOCK_TCP
     * SWOOLE_SOCK_TCP6
     * SWOOLE_SOCK_UDP
